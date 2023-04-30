@@ -14,3 +14,7 @@ Dioanaea Honeypot Deployment
     
  Database Backup (session.json)
     - Here, I exported data from my honeypot in JSON format using the MHN admin VM, reduced the file size, and then copied it back to my local machine 
+    
+    
+    
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/123430729/235375957-75ad2a4e-fbd3-4b80-b3b9-d4bb9be1fda4.gif)
