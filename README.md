@@ -1,5 +1,4 @@
 # HoneyPot
-Code Path Assignment
 
 MHN Admin Deployment
     - For milestone 1 and 2, I created a MHN Admin VM with these attributes: 
